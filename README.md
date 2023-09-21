@@ -12,9 +12,9 @@
 
 - 🌱 I’m currently learning **Laravel**
 
-- 👨‍💻 All of my projects are available at [thinutech.software](thinutech.software)
+- 👨‍💻 All of my projects are available at [thinutech.software](https://thinutech.software)
 
-- 📝 I regularly write articles on [cms.thinutech.software](cms.thinutech.software)
+- 📝 I regularly write articles on [cms.thinutech.software](https://cms.thinutech.software)
 
 - 💬 Ask me about **PHP, MySQL**
 
