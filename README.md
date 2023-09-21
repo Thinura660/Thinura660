@@ -35,4 +35,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thinura660&show_icons=true&locale=en&layout=compact" alt="thinura660" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thinura660&show_icons=true&locale=en" alt="thinura660" /></p>
