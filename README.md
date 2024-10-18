@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/thinura_p" target="blank"><img src="https://img.shields.io/twitter/follow/thinura_p?logo=twitter&style=for-the-badge" alt="thinura_p" /></a> </p>
 
-- 🔭 I’m currently working on **Thinu-CMS**
+- 🔭 I’m currently working on **NC LMS**
 
 - 🌱 I’m currently learning **Laravel**
 
-- 👨‍💻 All of my projects are available at [thinutech.software](https://thinura.tech)
+- 👨‍💻 All of my projects are available at [thinura.teche](https://thinura.tech)
 
-- 📝 I regularly write articles on [cms.thinutech.software](https://thinura.tech/blog)
+- 📝 I regularly write articles on [[cms.thinutech.software](https://thinura.tech/blog)](https://thinura.tech/blog)
 
 - 💬 Ask me about **PHP, MySQL**
 
@@ -24,7 +24,7 @@
 <p align="left">
 <a href="https://twitter.com/thinura_p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thinura_p" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/thinura-p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thinura-p" height="30" width="40" /></a>
-<a href="https://instagram.com/thinura_premawardana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thinura_premawardana" height="30" width="40" /></a>
+<a href="https://instagram.com/thinu.ix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thinura_premawardana" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
