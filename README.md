@@ -15,6 +15,8 @@
 
 - 📝 I regularly write articles on [www.thinura.tech/blog](www.thinura.tech/blog)
 
+- 🤖 TryHackMe profile - [0snail](https://tryhackme.com/r/p/0snail)
+
 - 📫 How to reach me **thinura27409@gmail.com**
 
 - ⚡ Fun fact **Fuck society!**
