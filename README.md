@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning **Laravel**
 
-- 👨‍💻 All of my projects are available at [www.thinura.tech](www.thinura.tech)
+- 👨‍💻 All of my projects are available at [www.thinura.tech](https://www.thinura.tech)
 
-- 📝 I regularly write articles on [www.thinura.tech/blog](www.thinura.tech/blog)
+- 📝 I regularly write articles on [www.thinura.tech/blog](https://www.thinura.tech/blog)
 
 - 🤖 TryHackMe profile - [0snail](https://tryhackme.com/r/p/0snail)
 
